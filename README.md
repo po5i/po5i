@@ -11,6 +11,3 @@ My main roles had been related to software development and consultancy, cloud de
 🎧 Activities| Martial Arts, Bike, Swim, Gardening, [Photography](instagram.com/po5i/)
 🌱 Looking to | Provide mentorship, Talks, Workshops
 📫 Contact | Any [social profile](https://po5i.github.io/)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=po5i&show_icons=true&theme=light&line_height=27" alt="Github stats"/>
