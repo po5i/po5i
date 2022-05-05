@@ -5,7 +5,7 @@ My main roles had been related to software development and consultancy, cloud de
 
 | <!-- -->    | <!-- -->    |
 -- | --
-💪 Current Work | [@stackbuilders](https://github.com/stackbuilders)
+💪 Current Work | [@globant](https://github.com/globant)
 ✌️ Programming for 💰 since | 2006
 🧡 Languages | Python, JS, TS, and FP in general
 🎧 Activities| Martial Arts, Bike, Swim, Gardening, [Photography](instagram.com/po5i/)
